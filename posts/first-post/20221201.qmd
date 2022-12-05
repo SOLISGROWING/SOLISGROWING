@@ -1,5 +1,8 @@
 ---
 title: Memo-20221201
+author: "Yeji"
+date: "2022-12-01"
+categories: [typescript, note]
 jupyter: python3
 ---
 
