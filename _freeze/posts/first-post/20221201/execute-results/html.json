@@ -1,0 +1,11 @@
+{
+  "hash": "3d1e292843384c4b76df88fef6533589",
+  "result": {
+    "markdown": "# 20221201\n\n- Material icon 설치\n- Night owl 설치\n\n- axios 사용법\n- https://axios-http.com/kr/docs/intro\n\n- 주석의 사용법 / ** 누르고 Enter\n\n#### 타입스크립트의 장점이란?\n\n1. 에러에대한 사전방지\n2. 코드 가이드 및 자동완성 ( 개발 생산성 향상)\n\n#### NPM 세팅\n\n- npm i typescript -g => not working\n- tsc app.ts => not working\n- npx tsc app.ts => working... why\n\n#### 바벨 사이트?\n\n- 최대한 많은 브라우저에 호환 할 수 있게 문법을 바꾸어줌\n\n",
+    "supporting": [
+      "20221201_files"
+    ],
+    "filters": [],
+    "includes": {}
+  }
+}

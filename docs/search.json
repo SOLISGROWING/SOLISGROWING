@@ -1,0 +1,37 @@
+[
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About",
+    "section": "",
+    "text": "About this blog"
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Do your best",
+    "section": "",
+    "text": "20221201\n\n\n\n\n\n\n\n\n\n\n \n\n\n\n\n  \n\n\n\n\nPost With Code\n\n\n\n\n\n\n\nnews\n\n\ncode\n\n\nanalysis\n\n\n\n\n\n\n\n\n\n\n\nDec 2, 2022\n\n\nHarlow Malloc\n\n\n\n\n\n\n  \n\n\n\n\nWelcome To My Blog\n\n\n\n\n\n\n\nnews\n\n\n\n\n\n\n\n\n\n\n\nNov 29, 2022\n\n\nTristan O’Malley\n\n\n\n\n\n\nNo matching items"
+  },
+  {
+    "objectID": "posts/first-post/20221201.html",
+    "href": "posts/first-post/20221201.html",
+    "title": "",
+    "section": "",
+    "text": "20221201\n\nMaterial icon 설치\nNight owl 설치\naxios 사용법\nhttps://axios-http.com/kr/docs/intro\n주석의 사용법 / ** 누르고 Enter\n\n\n타입스크립트의 장점이란?\n\n에러에대한 사전방지\n코드 가이드 및 자동완성 ( 개발 생산성 향상)\n\n\n\nNPM 세팅\n\nnpm i typescript -g => not working\ntsc app.ts => not working\nnpx tsc app.ts => working… why\n\n\n\n바벨 사이트?\n\n최대한 많은 브라우저에 호환 할 수 있게 문법을 바꾸어줌"
+  },
+  {
+    "objectID": "posts/post-with-code/index.html",
+    "href": "posts/post-with-code/index.html",
+    "title": "Post With Code",
+    "section": "",
+    "text": "This is a post with executable code."
+  },
+  {
+    "objectID": "posts/welcome/index.html",
+    "href": "posts/welcome/index.html",
+    "title": "Welcome To My Blog",
+    "section": "",
+    "text": "This is the first post in a Quarto blog. Welcome!\n\nSince this post doesn’t specify an explicit image, the first image in the post will be used in the listing page of posts."
+  }
+]
