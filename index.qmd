@@ -1,5 +1,5 @@
 ---
-title: "blog_migration"
+title: "Do your best"
 listing:
   contents: posts
   sort: "date desc"
