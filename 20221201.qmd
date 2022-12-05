@@ -1,0 +1,30 @@
+---
+jupyter: python3
+---
+
+
+# 20221201
+
+- Material icon 설치
+- Night owl 설치
+
+- axios 사용법
+- https://axios-http.com/kr/docs/intro
+
+- 주석의 사용법 / ** 누르고 Enter
+
+#### 타입스크립트의 장점이란?
+
+1. 에러에대한 사전방지
+2. 코드 가이드 및 자동완성 ( 개발 생산성 향상)
+
+#### NPM 세팅
+
+- npm i typescript -g => not working
+- tsc app.ts => not working
+- npx tsc app.ts => working... why
+
+#### 바벨 사이트?
+
+- 최대한 많은 브라우저에 호환 할 수 있게 문법을 바꾸어줌
+
