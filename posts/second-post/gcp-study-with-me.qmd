@@ -1,0 +1,16 @@
+---
+title: "gcp study with me"
+author: "yeji"
+date: "2022-12-05"
+categories: [study]
+format:
+  html:
+    code-fold: true
+jupyter: python3
+image: gcp.png
+---
+
+
+### gcp-study and summarize
+
+
