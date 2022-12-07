@@ -4,6 +4,7 @@ author: "Yeji"
 date: "2022-12-01"
 categories: [typescript, study]
 jupyter: python3
+image: "TS.png"
 ---
 
 
