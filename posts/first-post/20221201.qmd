@@ -1,8 +1,8 @@
 ---
-title: Memo-20221201
+title: Memo-For-typescript-settings
 author: "Yeji"
 date: "2022-12-01"
-categories: [typescript, note]
+categories: [typescript, study]
 jupyter: python3
 ---
 

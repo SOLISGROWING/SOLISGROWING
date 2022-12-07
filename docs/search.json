@@ -1,5 +1,33 @@
 [
   {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About",
+    "section": "",
+    "text": "About this blog"
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Do your best",
+    "section": "",
+    "text": "Gcp study with me\n\n\n\n\n\n\n\ngcp\n\n\nstudy\n\n\n\n\n\n\n\n\n\n\n\nDec 6, 2022\n\n\nYeji kim\n\n\n\n\n\n\n  \n\n\n\n\ngcp study with me\n\n\n\n\n\n\n\nstudy\n\n\n\n\n\n\n\n\n\n\n\nDec 5, 2022\n\n\nyeji\n\n\n\n\n\n\n  \n\n\n\n\nPost With Code\n\n\n\n\n\n\n\nnews\n\n\ncode\n\n\nanalysis\n\n\n\n\n\n\n\n\n\n\n\nDec 2, 2022\n\n\nHarlow Malloc\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nMemo-For-typescript-settings\n\n\n\n\n\n\n\ntypescript\n\n\nstudy\n\n\n\n\n\n\n\n\n\n\n\nDec 1, 2022\n\n\nYeji\n\n\n\n\n\n\n  \n\n\n\n\nWelcome To My Blog\n\n\n\n\n\n\n\nnews\n\n\n\n\n\n\n\n\n\n\n\nNov 29, 2022\n\n\nTristan O’Malley\n\n\n\n\n\n\nNo matching items"
+  },
+  {
+    "objectID": "posts/first-post/20221201.html",
+    "href": "posts/first-post/20221201.html",
+    "title": "Memo-20221201",
+    "section": "",
+    "text": "20221201\n\nMaterial icon 설치\nNight owl 설치\naxios 사용법\nhttps://axios-http.com/kr/docs/intro\n주석의 사용법 / ** 누르고 Enter\n\n\n타입스크립트의 장점이란?\n\n에러에대한 사전방지\n코드 가이드 및 자동완성 ( 개발 생산성 향상)\n\n\n\nNPM 세팅\n\nnpm i typescript -g => not working\ntsc app.ts => not working\nnpx tsc app.ts => working… why\n\n\n\n바벨 사이트?\n\n최대한 많은 브라우저에 호환 할 수 있게 문법을 바꾸어줌"
+  },
+  {
+    "objectID": "posts/post-with-code/index.html",
+    "href": "posts/post-with-code/index.html",
+    "title": "Post With Code",
+    "section": "",
+    "text": "This is a post with executable code."
+  },
+  {
     "objectID": "posts/second-post/gcp-study-with-me.html",
     "href": "posts/second-post/gcp-study-with-me.html",
     "title": "gcp study with me",
@@ -7,17 +35,17 @@
     "text": "gcp-study and summarize\n\n\nDB 정리하기\n\nDB 의 종류가… 많아도 너무나 많다\n\n\nCase study 정리하기\n\n수많은…자료\n\n★ 기출 분석 ★"
   },
   {
-    "objectID": "index.html",
-    "href": "index.html",
-    "title": "Do your best",
-    "section": "",
-    "text": "Gcp study with me\n\n\n\n\n\n\n\ngcp\n\n\n\n\n\n\n\n\n\n\n\nDec 7, 2022\n\n\nYeji kim\n\n\n\n\n\n\n  \n\n\n\n\ngcp study with me\n\n\n\n\n\n\n\nstudy\n\n\n\n\n\n\n\n\n\n\n\nDec 5, 2022\n\n\nyeji\n\n\n\n\n\n\n  \n\n\n\n\nPost With Code\n\n\n\n\n\n\n\nnews\n\n\ncode\n\n\nanalysis\n\n\n\n\n\n\n\n\n\n\n\nDec 2, 2022\n\n\nHarlow Malloc\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nMemo-20221201\n\n\n\n\n\n\n\ntypescript\n\n\nnote\n\n\n\n\n\n\n\n\n\n\n\nDec 1, 2022\n\n\nYeji\n\n\n\n\n\n\n  \n\n\n\n\nWelcome To My Blog\n\n\n\n\n\n\n\nnews\n\n\n\n\n\n\n\n\n\n\n\nNov 29, 2022\n\n\nTristan O’Malley\n\n\n\n\n\n\nNo matching items"
-  },
-  {
     "objectID": "posts/third-post/20221206.html",
     "href": "posts/third-post/20221206.html",
     "title": "Gcp study with me",
     "section": "",
     "text": "GCP\n\nApplication Services\nCompute\nStorage\nBig Data\nMachine Learning\n\n\n\nRate quota vs Allocation quota\n\nRate quota reset after specific time\n\nYou can change some quotas by requesting an increase from Google Cloud Support\n\n\nService Account\n\nWhat if you want to give permissions to a Compute Engine virtual machine rather than to a person? 의 대한 답\n\n\n\nGCP 와의 상호작용\n\nGoogle Cloud console\nCloud SDK and Cloud Shell\nAPIs\nCloud Mobile App\n\n\n\nIAM roles from general to specific(iam 역할을 일반적인것부터특별한 순으로 나열한다면)\n\nBasic roles, predefined roles, custom roles.\n\n\nIAM policies that are implemented by lower-level policies can override the policies defined at a higher level.\n\n\n\n8.8.8.8\n\nA public dns (domain name service) to the world\n\n\n\nCarrier peering\n\nPeering to your on premise network\n\n\nNetworks are global, and subnets are regional\n\n\n\nGoogle cloud db ?\n\n정형 (Structured data)\n비정형(Unstructured data)\n트랜잭션(Transferred data)\n관계형 데이터 (Relational data)\n\n\n\nCloud Storage\n\n내구성이 뛰어나고 가용성이 높은 오브젝트 스토리지\n오브젝트로 관리하는 컴퓨터 데이터 스토리지 아키텍처\n\n\n\nObject Storage 는 파일이나 폴더구조나 디스크가 아니다\n\nBinary form of the actual data itself\nRelevant associated meta-data\nGlobally unique identifier\n\n\n\nBinary large-object (BLOB) storage\n\nOnline content\nBackup and archiving\nStorage of intermediate results\n\n\n\nThe Storage object offered by Cloud Storage are immutable\n\n그래서 편집하지 않고 새버전이 계속 생겨진다.\n\n\n\nLifecycle polices\n\nDelete objects older than 365 days\n각 객체의 최신버전 3개만 유지합니다.\n\n\n\nStandard Storage\n\nHot data\nOnly brief periods of time (단기간에 적합)\n\n\n\nNearline Storage\n\nonce per moth (자주 접근하지 않는 데이터)\ndata archiving, data backups, long-tail multimedia content"
+  },
+  {
+    "objectID": "posts/welcome/index.html",
+    "href": "posts/welcome/index.html",
+    "title": "Welcome To My Blog",
+    "section": "",
+    "text": "This is the first post in a Quarto blog. Welcome!\n\nSince this post doesn’t specify an explicit image, the first image in the post will be used in the listing page of posts."
   }
 ]
