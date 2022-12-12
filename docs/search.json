@@ -11,7 +11,7 @@
     "href": "index.html",
     "title": "Do your best",
     "section": "",
-    "text": "Storage 복습\n\n\n\n\n\n\n\n\n\n\n \n\n\n\n\n  \n\n\n\n\nPCA Guide\n\n\n\n\n\n\n\ngcp\n\n\nstudy\n\n\n\n\n\n\n\n\n\n\n\nDec 7, 2022\n\n\nYeji kim\n\n\n\n\n\n\n  \n\n\n\n\nGCP study with me\n\n\n\n\n\n\n\ngcp\n\n\nstudy\n\n\n\n\n\n\n\n\n\n\n\nDec 6, 2022\n\n\nYeji kim\n\n\n\n\n\n\n  \n\n\n\n\nGCP study with me\n\n\n\n\n\n\n\nstudy\n\n\ngcp\n\n\n\n\n\n\n\n\n\n\n\nDec 5, 2022\n\n\nyeji\n\n\n\n\n\n\n  \n\n\n\n\nPost With Code\n\n\n\n\n\n\n\nnews\n\n\ncode\n\n\nanalysis\n\n\n\n\n\n\n\n\n\n\n\nDec 2, 2022\n\n\nHarlow Malloc\n\n\n\n\n\n\n  \n\n\n\n\nMemo-For-typescript-settings\n\n\n\n\n\n\n\ntypescript\n\n\nstudy\n\n\n\n\n\n\n\n\n\n\n\nDec 1, 2022\n\n\nYeji\n\n\n\n\n\n\n  \n\n\n\n\nWelcome To My Blog\n\n\n\n\n\n\n\nnews\n\n\n\n\n\n\n\n\n\n\n\nNov 29, 2022\n\n\nTristan O’Malley\n\n\n\n\n\n\nNo matching items"
+    "text": "GCP study with Cloudstorage, Containers\n\n\n\n\n\n\n\ngcp\n\n\nstudy\n\n\n\n\n\n\n\n\n\n\n\nDec 12, 2022\n\n\nYeji kim\n\n\n\n\n\n\n  \n\n\n\n\nPCA Guide\n\n\n\n\n\n\n\ngcp\n\n\nstudy\n\n\n\n\n\n\n\n\n\n\n\nDec 7, 2022\n\n\nYeji kim\n\n\n\n\n\n\n  \n\n\n\n\nGCP study with me\n\n\n\n\n\n\n\ngcp\n\n\nstudy\n\n\n\n\n\n\n\n\n\n\n\nDec 6, 2022\n\n\nYeji kim\n\n\n\n\n\n\n  \n\n\n\n\nGCP study with me\n\n\n\n\n\n\n\nstudy\n\n\ngcp\n\n\n\n\n\n\n\n\n\n\n\nDec 5, 2022\n\n\nyeji\n\n\n\n\n\n\n  \n\n\n\n\nPost With Code\n\n\n\n\n\n\n\nnews\n\n\ncode\n\n\nanalysis\n\n\n\n\n\n\n\n\n\n\n\nDec 2, 2022\n\n\nHarlow Malloc\n\n\n\n\n\n\n  \n\n\n\n\nMemo-For-typescript-settings\n\n\n\n\n\n\n\ntypescript\n\n\nstudy\n\n\n\n\n\n\n\n\n\n\n\nDec 1, 2022\n\n\nYeji\n\n\n\n\n\n\n  \n\n\n\n\nWelcome To My Blog\n\n\n\n\n\n\n\nnews\n\n\n\n\n\n\n\n\n\n\n\nNov 29, 2022\n\n\nTristan O’Malley\n\n\n\n\n\n\nNo matching items"
   },
   {
     "objectID": "posts/exam-guid-for-pca/20221207.html",
@@ -30,14 +30,14 @@
   {
     "objectID": "posts/gcp-with-20221212/20221212.html",
     "href": "posts/gcp-with-20221212/20221212.html",
-    "title": "",
+    "title": "GCP study with Cloudstorage, Containers",
     "section": "",
     "text": "Standard Storage\nNearline Storage\nColdline Storage\nArchive Storage\n\n\n\n\nHot data\nfrequently access data\n\n\n\n\n\n자주 엑세스 하지 않는 데이터\nOnce per month\n\n\n\n\n\n자주 엑세스 하지 않는 데이터\nNearline Storage 와 비교할 때 읽기 또는 수정을 위한 것이다.\n\n\n\n\n\n백업 및 재해복구 용\nOnce a year\n\n\n\n\n\n\n완전히 관리되는 관계형 디비\n수평으로 확장가능\n고가용성 서비스에 적합\n많은 수의 입출력 서비스에 적합\n한마디로 말해 글로벌 서비스에 적합?\n\n\n\n\n\nFlexible\nHorizontally scalable\nNosql cloud db\nRetrieve individual documents\nRetrive all the documents in a collection\nCan include multiple, chained filters\nCan combine filtering and sorting options\nIndexed by default\n\n\n\n\n\n\nGoogle’s NoSQL Big data database service\nCloud Bigtable can interact with other Google Cloud services and third-parth clients\n\n\n\n\n\nWhich database service can scale to higher database size?\n\nCloud Spanner\n\nYou manufacture devices with sensors and need to stream huge amounts of data from these devices to a storage option in the cloud. Which storage option is the best choice for your application?\n\nBigtable\n\nYour application needs to store data with strong transactional consistency, and you want seamless scaling up. Which storage option is the best choice for your application?\n\nCloud Spanner"
   },
   {
     "objectID": "posts/gcp-with-20221212/20221212.html#container",
     "href": "posts/gcp-with-20221212/20221212.html#container",
-    "title": "",
+    "title": "GCP study with Cloudstorage, Containers",
     "section": "Container",
     "text": "Container\n\nApp Engine\n\nAccess to programming serices to write your code\nSeamless, independent and rapid scaling\nNo fine-tuning the underlying architecture to save cost\n\n\n\nKubernetes\n\nA Pod is a small unit\n\n\n\nGKE\n\nGoogle Cloud’s load-balancing for Compute Engine instances\nNode pools to designate subsets of nodes within a cluster\nAutomatic scaling of your cluster’s node instance count\nAutomatic upgrades for your cluster’s node software\nNode auto-repair to maintain node health and availability\nLogging and monitoring with Google Cloud’s operations suite\n\n\n\nAnthos\n\nA hybrid and multi-cloud solution\nFramework rests on Kubernetes and GKE On-Prem\nProvides a rich set of tools for monitoring and maintenance\n\n\n\nGCP\n\nVirtual Machines\nNetworks\nStorage\nContainers\n\n\n\nApp Engine\n\nApp Engine is a fully managed, serverless platform for developing and hosting web applications at scale\n\n\n\nBuilt-in services and APIs -> App Engine 이 제공하는 것들\n\nNoSQL datastores\nHealth checks\nMemcACHE\nApplication logging\nLoad balancing\nUser authentication API\n\n\n\nEach SDK includes\n\nAPIs and libraries\nSandbox environment\nDeployment tools\n\n** The SDK manages your applicaiton locally, and the Google Cloud Console manages your application in production **\n출처 : Coursera"
   },
