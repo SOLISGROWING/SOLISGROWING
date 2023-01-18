@@ -6,10 +6,10 @@
 
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
-<meta name="author" content="Yeji">
-<meta name="dcterms.date" content="2022-12-01">
+<meta name="author" content="Yeji kim">
+<meta name="dcterms.date" content="2022-12-06">
 
-<title>Memo-For-typescript-settings</title>
+<title>GCP study with me</title>
 <style>
 code{white-space: pre-wrap;}
 span.smallcaps{font-variant: small-caps;}
@@ -70,9 +70,9 @@ ul.task-list li input[type="checkbox"] {
 <header id="title-block-header" class="quarto-title-block default page-columns page-full">
   <div class="quarto-title-banner page-columns page-full">
     <div class="quarto-title column-body">
-      <h1 class="title">Memo-For-typescript-settings</h1>
+      <h1 class="title">GCP study with me</h1>
                                 <div class="quarto-categories">
-                <div class="quarto-category">typescript</div>
+                <div class="quarto-category">gcp</div>
                 <div class="quarto-category">study</div>
               </div>
                   </div>
@@ -84,14 +84,14 @@ ul.task-list li input[type="checkbox"] {
       <div>
       <div class="quarto-title-meta-heading">Author</div>
       <div class="quarto-title-meta-contents">
-               <p>Yeji </p>
+               <p>Yeji kim </p>
             </div>
     </div>
       
       <div>
       <div class="quarto-title-meta-heading">Published</div>
       <div class="quarto-title-meta-contents">
-        <p class="date">December 1, 2022</p>
+        <p class="date">December 6, 2022</p>
       </div>
     </div>
     
@@ -109,38 +109,122 @@ ul.task-list li input[type="checkbox"] {
 
 
 
-<section id="section" class="level1">
-<h1>20221201</h1>
+<section id="gcp" class="level3">
+<h3 class="anchored" data-anchor-id="gcp">GCP</h3>
 <ul>
-<li><p>Material icon 설치</p></li>
-<li><p>Night owl 설치</p></li>
-<li><p>axios 사용법</p></li>
-<li><p>https://axios-http.com/kr/docs/intro</p></li>
-<li><p>주석의 사용법 / ** 누르고 Enter</p></li>
-</ul>
-<section id="타입스크립트의-장점이란" class="level4">
-<h4 class="anchored" data-anchor-id="타입스크립트의-장점이란">타입스크립트의 장점이란?</h4>
-<ol type="1">
-<li>에러에대한 사전방지</li>
-<li>코드 가이드 및 자동완성 ( 개발 생산성 향상)</li>
-</ol>
-</section>
-<section id="npm-세팅" class="level4">
-<h4 class="anchored" data-anchor-id="npm-세팅">NPM 세팅</h4>
-<ul>
-<li>npm i typescript -g =&gt; not working</li>
-<li>tsc app.ts =&gt; not working</li>
-<li>npx tsc app.ts =&gt; working… why</li>
+<li>Application Services</li>
+<li>Compute</li>
+<li>Storage</li>
+<li>Big Data</li>
+<li>Machine Learning</li>
 </ul>
 </section>
-<section id="바벨-사이트" class="level4">
-<h4 class="anchored" data-anchor-id="바벨-사이트">바벨 사이트?</h4>
+<section id="rate-quota-vs-allocation-quota" class="level3">
+<h3 class="anchored" data-anchor-id="rate-quota-vs-allocation-quota">Rate quota vs Allocation quota</h3>
 <ul>
-<li>최대한 많은 브라우저에 호환 할 수 있게 문법을 바꾸어줌</li>
+<li>Rate quota reset after specific time</li>
+</ul>
+<p><u>You can change some quotas by requesting an increase from Google Cloud Support</u></p>
+</section>
+<section id="service-account" class="level3">
+<h3 class="anchored" data-anchor-id="service-account">Service Account</h3>
+<ul>
+<li>What if you want to give permissions to a Compute Engine virtual machine rather than to a person? 의 대한 답</li>
+</ul>
+</section>
+<section id="gcp-와의-상호작용" class="level3">
+<h3 class="anchored" data-anchor-id="gcp-와의-상호작용">GCP 와의 상호작용</h3>
+<ul>
+<li>Google Cloud console</li>
+<li>Cloud SDK and Cloud Shell</li>
+<li>APIs</li>
+<li>Cloud Mobile App</li>
+</ul>
+</section>
+<section id="iam-roles-from-general-to-specificiam-역할을-일반적인것부터특별한-순으로-나열한다면" class="level3">
+<h3 class="anchored" data-anchor-id="iam-roles-from-general-to-specificiam-역할을-일반적인것부터특별한-순으로-나열한다면">IAM roles from general to specific(iam 역할을 일반적인것부터특별한 순으로 나열한다면)</h3>
+<ul>
+<li>Basic roles, predefined roles, custom roles.</li>
+</ul>
+<blockquote class="blockquote">
+<p>IAM policies that are implemented by lower-level policies can override the policies defined at a higher level.</p>
+</blockquote>
+</section>
+<section id="section" class="level3">
+<h3 class="anchored" data-anchor-id="section">8.8.8.8</h3>
+<ul>
+<li>A public dns (domain name service) to the world</li>
+</ul>
+</section>
+<section id="carrier-peering" class="level3">
+<h3 class="anchored" data-anchor-id="carrier-peering">Carrier peering</h3>
+<ul>
+<li>Peering to your on premise network</li>
+</ul>
+<blockquote class="blockquote">
+<p>Networks are global, and subnets are regional</p>
+</blockquote>
+</section>
+<section id="google-cloud-db" class="level3">
+<h3 class="anchored" data-anchor-id="google-cloud-db">Google cloud db ?</h3>
+<ul>
+<li>정형 (Structured data)</li>
+<li>비정형(Unstructured data)</li>
+<li>트랜잭션(Transferred data)</li>
+<li>관계형 데이터 (Relational data)</li>
+</ul>
+</section>
+<section id="cloud-storage" class="level3">
+<h3 class="anchored" data-anchor-id="cloud-storage">Cloud Storage</h3>
+<ul>
+<li>내구성이 뛰어나고 가용성이 높은 오브젝트 스토리지</li>
+<li>오브젝트로 관리하는 컴퓨터 데이터 스토리지 아키텍처</li>
+</ul>
+</section>
+<section id="object-storage-는-파일이나-폴더구조나-디스크가-아니다" class="level3">
+<h3 class="anchored" data-anchor-id="object-storage-는-파일이나-폴더구조나-디스크가-아니다">Object Storage 는 파일이나 폴더구조나 디스크가 아니다</h3>
+<ul>
+<li>Binary form of the actual data itself</li>
+<li>Relevant associated meta-data</li>
+<li>Globally unique identifier</li>
+</ul>
+</section>
+<section id="binary-large-object-blob-storage" class="level3">
+<h3 class="anchored" data-anchor-id="binary-large-object-blob-storage">Binary large-object (BLOB) storage</h3>
+<ul>
+<li>Online content</li>
+<li>Backup and archiving</li>
+<li>Storage of intermediate results</li>
+</ul>
+</section>
+<section id="the-storage-object-offered-by-cloud-storage-are-immutable" class="level3">
+<h3 class="anchored" data-anchor-id="the-storage-object-offered-by-cloud-storage-are-immutable">The Storage object offered by Cloud Storage are immutable</h3>
+<ul>
+<li>그래서 편집하지 않고 새버전이 계속 생겨진다.</li>
+</ul>
+</section>
+<section id="lifecycle-polices" class="level3">
+<h3 class="anchored" data-anchor-id="lifecycle-polices">Lifecycle polices</h3>
+<ul>
+<li>Delete objects older than 365 days</li>
+<li>각 객체의 최신버전 3개만 유지합니다.</li>
+</ul>
+</section>
+<section id="standard-storage" class="level3">
+<h3 class="anchored" data-anchor-id="standard-storage">Standard Storage</h3>
+<ul>
+<li>Hot data</li>
+<li>Only brief periods of time (단기간에 적합)</li>
+</ul>
+</section>
+<section id="nearline-storage" class="level3">
+<h3 class="anchored" data-anchor-id="nearline-storage">Nearline Storage</h3>
+<ul>
+<li><p>once per moth (자주 접근하지 않는 데이터)</p></li>
+<li><p>data archiving, data backups, long-tail multimedia content</p></li>
 </ul>
 
 
-</section>
 </section>
 
 </main> <!-- /main -->

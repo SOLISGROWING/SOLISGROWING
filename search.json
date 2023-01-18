@@ -11,14 +11,98 @@
     "href": "index.html",
     "title": "Do your best",
     "section": "",
-    "text": "Post With Code\n\n\n\n\n\n\n\nnews\n\n\ncode\n\n\nanalysis\n\n\n\n\n\n\n\n\n\n\n\nDec 2, 2022\n\n\nHarlow Malloc\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nMemo-20221201\n\n\n\n\n\n\n\ntypescript\n\n\nnote\n\n\n\n\n\n\n\n\n\n\n\nDec 1, 2022\n\n\nYeji\n\n\n\n\n\n\n  \n\n\n\n\nWelcome To My Blog\n\n\n\n\n\n\n\nnews\n\n\n\n\n\n\n\n\n\n\n\nNov 29, 2022\n\n\nTristan O’Malley\n\n\n\n\n\n\nNo matching items"
+    "text": "Case Study\n\n\n\n\n\n\n\n\n\n\n \n\n\n\n\n  \n\n\n\n\nApp Engine Standard vs Flexible environment\n\n\n\n\n\n\n\n\n\n\n \n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n \n\n\n\n\n\n\n\n\n\n\n\n\n\nTerragrunt 에서 중요한 것들\n\n\n\n\n\n\n\n\n\n\n \n\n\n\n\n  \n\n\n\n\nD-6 with pca\n\n\n\n\n\n\n\ngcp\n\n\nstudy\n\n\n\n\n\n\n\n\n\n\n\nDec 26, 2022\n\n\nYeji kim\n\n\n\n\n\n\n  \n\n\n\n\nGCP study with Cloudstorage, Containers\n\n\n\n\n\n\n\ngcp\n\n\nstudy\n\n\n\n\n\n\n\n\n\n\n\nDec 12, 2022\n\n\nYeji kim\n\n\n\n\n\n\n  \n\n\n\n\nPCA Guide\n\n\n\n\n\n\n\ngcp\n\n\nstudy\n\n\n\n\n\n\n\n\n\n\n\nDec 7, 2022\n\n\nYeji kim\n\n\n\n\n\n\n  \n\n\n\n\nGCP study with me\n\n\n\n\n\n\n\ngcp\n\n\nstudy\n\n\n\n\n\n\n\n\n\n\n\nDec 6, 2022\n\n\nYeji kim\n\n\n\n\n\n\n  \n\n\n\n\nGCP study with me\n\n\n\n\n\n\n\nstudy\n\n\ngcp\n\n\n\n\n\n\n\n\n\n\n\nDec 5, 2022\n\n\nyeji\n\n\n\n\n\n\n  \n\n\n\n\nPost With Code\n\n\n\n\n\n\n\nnews\n\n\ncode\n\n\nanalysis\n\n\n\n\n\n\n\n\n\n\n\nDec 2, 2022\n\n\nHarlow Malloc\n\n\n\n\n\n\n  \n\n\n\n\nMemo-For-typescript-settings\n\n\n\n\n\n\n\ntypescript\n\n\nstudy\n\n\n\n\n\n\n\n\n\n\n\nDec 1, 2022\n\n\nYeji\n\n\n\n\n\n\n  \n\n\n\n\nWelcome To My Blog\n\n\n\n\n\n\n\nnews\n\n\n\n\n\n\n\n\n\n\n\nNov 29, 2022\n\n\nTristan O’Malley\n\n\n\n\n\n\nNo matching items"
+  },
+  {
+    "objectID": "posts/exam-guid-for-pca/20221207.html",
+    "href": "posts/exam-guid-for-pca/20221207.html",
+    "title": "PCA Guide",
+    "section": "",
+    "text": "Should be proficient in:\n\nEnterprise cloud stategy\nSolution design\nArchitectural best practices\n\nShould be experienced in software development methodologies, including multi-tiered distributed applications that span multicloud or hybrid environments.\nFor more information, visit the Professional Cloud Architect certification page."
   },
   {
     "objectID": "posts/first-post/20221201.html",
     "href": "posts/first-post/20221201.html",
-    "title": "Memo-20221201",
+    "title": "Memo-For-typescript-settings",
     "section": "",
     "text": "20221201\n\nMaterial icon 설치\nNight owl 설치\naxios 사용법\nhttps://axios-http.com/kr/docs/intro\n주석의 사용법 / ** 누르고 Enter\n\n\n타입스크립트의 장점이란?\n\n에러에대한 사전방지\n코드 가이드 및 자동완성 ( 개발 생산성 향상)\n\n\n\nNPM 세팅\n\nnpm i typescript -g => not working\ntsc app.ts => not working\nnpx tsc app.ts => working… why\n\n\n\n바벨 사이트?\n\n최대한 많은 브라우저에 호환 할 수 있게 문법을 바꾸어줌"
+  },
+  {
+    "objectID": "posts/gcp-20221221/20221221.html",
+    "href": "posts/gcp-20221221/20221221.html",
+    "title": "",
+    "section": "",
+    "text": "- Your Own Data Center\n- 자체 linux 운영체제 사용 \n\n\n\n- OS 자유자재 사용\n- Auto scaling and load balancing 사용가능\n- CDN 사용가능\n- 스스로... 관리\n- scaling 정책 수립 필요\n\n\n\n- os 커스텀 불가능\n\n\n\n- kubernetes on gcp?\n- 컨테이너화 되어있어야함\n- cluster 스스로 관리?\n\n\n\n- Event Based\n- No ops and Serverless\n- 서비리스\n- latency가 없음... \n\n\n\n- Storage vs speed\n- custom vs predefined\n\n\n\n- 월마트나 까르푸 같은 것 \n- 핵심은... Asia 로 서비스를 확장하는 것 \n\n\n\n- 작은 덩어리로 나누기 어려움\n- a-b test 하기 어려움\n- dependency (종속성)이 너무 많음\n\n\n\n\nCloud Interconnect\nCloud Direct / Carrier Peering\nCloud VPN\nCloud Router\n\n\n\n\n- 헬스케어\n- 헬리콥터\n- 마운트키크 게임\n- 테라어스"
+  },
+  {
+    "objectID": "posts/gcp-with-202212-26/20221226.html",
+    "href": "posts/gcp-with-202212-26/20221226.html",
+    "title": "D-6 with pca",
+    "section": "",
+    "text": "정말 막막하고 아무생각이 없지만 그래도 준비한다…pca\n## Cloud sql - Fully Managed MySQL AND PostgreSQL RDBMS"
+  },
+  {
+    "objectID": "posts/gcp-with-20221212/20221212.html",
+    "href": "posts/gcp-with-20221212/20221212.html",
+    "title": "GCP study with Cloudstorage, Containers",
+    "section": "",
+    "text": "Standard Storage\nNearline Storage\nColdline Storage\nArchive Storage\n\n\n\n\nHot data\nfrequently access data\n\n\n\n\n\n자주 엑세스 하지 않는 데이터\nOnce per month\n\n\n\n\n\n자주 엑세스 하지 않는 데이터\nNearline Storage 와 비교할 때 읽기 또는 수정을 위한 것이다.\n\n\n\n\n\n백업 및 재해복구 용\nOnce a year\n\n\n\n\n\n\n완전히 관리되는 관계형 디비\n수평으로 확장가능\n고가용성 서비스에 적합\n많은 수의 입출력 서비스에 적합\n한마디로 말해 글로벌 서비스에 적합?\n\n\n\n\n\nFlexible\nHorizontally scalable\nNosql cloud db\nRetrieve individual documents\nRetrive all the documents in a collection\nCan include multiple, chained filters\nCan combine filtering and sorting options\nIndexed by default\n\n\n\n\n\n\nGoogle’s NoSQL Big data database service\nCloud Bigtable can interact with other Google Cloud services and third-parth clients\n\n\n\n\n\nWhich database service can scale to higher database size?\n\nCloud Spanner\n\nYou manufacture devices with sensors and need to stream huge amounts of data from these devices to a storage option in the cloud. Which storage option is the best choice for your application?\n\nBigtable\n\nYour application needs to store data with strong transactional consistency, and you want seamless scaling up. Which storage option is the best choice for your application?\n\nCloud Spanner"
+  },
+  {
+    "objectID": "posts/gcp-with-20221212/20221212.html#container",
+    "href": "posts/gcp-with-20221212/20221212.html#container",
+    "title": "GCP study with Cloudstorage, Containers",
+    "section": "Container",
+    "text": "Container\n\nApp Engine\n\nAccess to programming serices to write your code\nSeamless, independent and rapid scaling\nNo fine-tuning the underlying architecture to save cost\n\n\n\nKubernetes\n\nA Pod is a small unit\n\n\n\nGKE\n\nGoogle Cloud’s load-balancing for Compute Engine instances\nNode pools to designate subsets of nodes within a cluster\nAutomatic scaling of your cluster’s node instance count\nAutomatic upgrades for your cluster’s node software\nNode auto-repair to maintain node health and availability\nLogging and monitoring with Google Cloud’s operations suite\n\n\n\nAnthos\n\nA hybrid and multi-cloud solution\nFramework rests on Kubernetes and GKE On-Prem\nProvides a rich set of tools for monitoring and maintenance\n\n\n\nGCP\n\nVirtual Machines\nNetworks\nStorage\nContainers\n\n\n\nApp Engine\n\nApp Engine is a fully managed, serverless platform for developing and hosting web applications at scale\n\n\n\nBuilt-in services and APIs -> App Engine 이 제공하는 것들\n\nNoSQL datastores\nHealth checks\nMemcACHE\nApplication logging\nLoad balancing\nUser authentication API\n\n\n\nEach SDK includes\n\nAPIs and libraries\nSandbox environment\nDeployment tools\n\n\nThe SDK manages your applicaiton locally, and the Google Cloud Console manages your application in production"
+  },
+  {
+    "objectID": "posts/gcp-with-20221212/20221212.html#app-engine-환경",
+    "href": "posts/gcp-with-20221212/20221212.html#app-engine-환경",
+    "title": "GCP study with Cloudstorage, Containers",
+    "section": "App Engine 환경",
+    "text": "App Engine 환경\n\nFlexible\nStandard\n\n\nStandard Environment (App Engine)\n\nPersistent storage with queries, sorting, and transactions\nAutomatic scaling and load balancing\nAsychronous task queues for performing work outside the scope of a request\nScheduled tasks for triggering events at specified times or regular intervals\n\n\n\nStandard Environment (App Engine Korean version)\n\n쿼리, 정렬 및 트랜잭션이 있는 영구적인 저장소\n자동적인 스케일링과 로드밸런싱\n범위에서 벗어난 비동기 작업요청을 수행할 수 있다.\n특정한 시간이나 정규적인 시간간격으로 작업을 예약 할 수있다.\n\n\n\nStandard Environment 2\n\nUse specified versions of Java,Python, PHP, Go, Node.js, and Ruby\nApplication must conform(순응해야한다) to sandbox\n\n\n\n\n참고그림\n\n\n\n\nFlexible Environment\n\nMicroservices\nAutorization\nSQL & NoSQL databases\nTraffic splitting\nLogging\nSearch\nVersioning\n\n출처 : Coursera"
+  },
+  {
+    "objectID": "posts/gcp-with-20221213/20221213.html",
+    "href": "posts/gcp-with-20221213/20221213.html",
+    "title": "",
+    "section": "",
+    "text": "Benefits from custom configurations and libraries, while focusing on writing code\nCustomize the runtime and operating system of your virtual machine.\nCustomize or provide runtimes by supplying a custom Docker image or Dockerfile\n\n\n\n\nimage-20221213103538004\n\n\n\n\n\nimage-20221213104554296\n\n\n\n\n\nimage-20221213132238246\n\n\n\n\n\nimage-20221213134607359\n\n\n\n\n\nimage-20221213142931939"
+  },
+  {
+    "objectID": "posts/gcp-with-20221213/20221213.html#cloud-run",
+    "href": "posts/gcp-with-20221213/20221213.html#cloud-run",
+    "title": "",
+    "section": "Cloud Run",
+    "text": "Cloud Run\nThe managed compute platform that lets you run stateless containers through web requests or Pub/Sub events\n\n\n\nimage-20221213143212206\n\n\n\n\n\nimage-20221213153656428"
+  },
+  {
+    "objectID": "posts/gcp-with-20221213/20221213.html#apigee-edge",
+    "href": "posts/gcp-with-20221213/20221213.html#apigee-edge",
+    "title": "",
+    "section": "Apigee Edge",
+    "text": "Apigee Edge\n\nPerform business analytics and billing on a customer-facing"
+  },
+  {
+    "objectID": "posts/gcp-with-20221213/20221213.html#app-engine",
+    "href": "posts/gcp-with-20221213/20221213.html#app-engine",
+    "title": "",
+    "section": "App Engine",
+    "text": "App Engine\n\nApp Engine manages the hardware and networking infrastructure required to run your code\nThe daily biling for an App Engine application can drop to zero"
+  },
+  {
+    "objectID": "posts/gcp-with-20221213/20221213.html#flexible-의-이점-vs-standard",
+    "href": "posts/gcp-with-20221213/20221213.html#flexible-의-이점-vs-standard",
+    "title": "",
+    "section": "Flexible 의 이점 (vs Standard)",
+    "text": "Flexible 의 이점 (vs Standard)\n\nYou can use SSH to connect to the virtual machines on which your application runs\nYou can install third-party binaries"
+  },
+  {
+    "objectID": "posts/gcp-with-20221213/20221213.html#cloud-functions",
+    "href": "posts/gcp-with-20221213/20221213.html#cloud-functions",
+    "title": "",
+    "section": "Cloud Functions",
+    "text": "Cloud Functions\n\n\n\nimage-20221213155524729"
   },
   {
     "objectID": "posts/post-with-code/index.html",
@@ -26,6 +110,34 @@
     "title": "Post With Code",
     "section": "",
     "text": "This is a post with executable code."
+  },
+  {
+    "objectID": "posts/second-post/gcp-study-with-me.html",
+    "href": "posts/second-post/gcp-study-with-me.html",
+    "title": "GCP study with me",
+    "section": "",
+    "text": "gcp-study and summarize\n\n\nDB 정리하기\n\nDB 의 종류가… 많아도 너무나 많다\n\n\nCase study 정리하기\n\n수많은…자료\n\n★ 기출 분석 ★"
+  },
+  {
+    "objectID": "posts/study-with-20230117/2023-01-17.html",
+    "href": "posts/study-with-20230117/2023-01-17.html",
+    "title": "",
+    "section": "",
+    "text": "---\ntitle: GCP study with me\nauthor: yeji\ndate: '2022-12-05'\ncategories:\n  - study\n  - gcp\nformat:\n  html:\n    code-fold: true\nimage: \"gcp.png\"\n---"
+  },
+  {
+    "objectID": "posts/terraform/terraform.html",
+    "href": "posts/terraform/terraform.html",
+    "title": "",
+    "section": "",
+    "text": "Terragrunt 에서 중요한 것들\n\nmain.tf (실제로 실행하는 파일)\nvariable.tf (입력값, name, 주소)\noutput.tf\ndata.tf\n\n\n\n순서\n\ndev main.tf\nmodule main.tf\nmodule var.tf\ndev var.tf\n\n\n\noutput.tf\n\n역할은 출력\n출력하고 싶은것을 정할 수 가 잇다.\n테라폼으로 만든 출력이 되는거를 가져온다.\n\n\n\ndata.tf\n\n콘솔로 만든것도 가져온다. 테라폼으로 만든것만 가져오는 output.tf와 다르다\n주로 filter를 사용해 원하는 것만 가져온다.\n\n\n\nlookup\n\n맵에서 키를 찾는 명령어\n\n\n\ndynamic\n\n딕셔너리 안에 딕셔너리가 있는 경우 사용\nhttps://frozenpond.tistory.com/200\n\n항상 공식문서를 확인 할 것\n항상 확인 할 것 \n\n\ncontains\n\n리스트 안에 원소가 있는지 없는지 여부"
+  },
+  {
+    "objectID": "posts/third-post/20221206.html",
+    "href": "posts/third-post/20221206.html",
+    "title": "GCP study with me",
+    "section": "",
+    "text": "GCP\n\nApplication Services\nCompute\nStorage\nBig Data\nMachine Learning\n\n\n\nRate quota vs Allocation quota\n\nRate quota reset after specific time\n\nYou can change some quotas by requesting an increase from Google Cloud Support\n\n\nService Account\n\nWhat if you want to give permissions to a Compute Engine virtual machine rather than to a person? 의 대한 답\n\n\n\nGCP 와의 상호작용\n\nGoogle Cloud console\nCloud SDK and Cloud Shell\nAPIs\nCloud Mobile App\n\n\n\nIAM roles from general to specific(iam 역할을 일반적인것부터특별한 순으로 나열한다면)\n\nBasic roles, predefined roles, custom roles.\n\n\nIAM policies that are implemented by lower-level policies can override the policies defined at a higher level.\n\n\n\n8.8.8.8\n\nA public dns (domain name service) to the world\n\n\n\nCarrier peering\n\nPeering to your on premise network\n\n\nNetworks are global, and subnets are regional\n\n\n\nGoogle cloud db ?\n\n정형 (Structured data)\n비정형(Unstructured data)\n트랜잭션(Transferred data)\n관계형 데이터 (Relational data)\n\n\n\nCloud Storage\n\n내구성이 뛰어나고 가용성이 높은 오브젝트 스토리지\n오브젝트로 관리하는 컴퓨터 데이터 스토리지 아키텍처\n\n\n\nObject Storage 는 파일이나 폴더구조나 디스크가 아니다\n\nBinary form of the actual data itself\nRelevant associated meta-data\nGlobally unique identifier\n\n\n\nBinary large-object (BLOB) storage\n\nOnline content\nBackup and archiving\nStorage of intermediate results\n\n\n\nThe Storage object offered by Cloud Storage are immutable\n\n그래서 편집하지 않고 새버전이 계속 생겨진다.\n\n\n\nLifecycle polices\n\nDelete objects older than 365 days\n각 객체의 최신버전 3개만 유지합니다.\n\n\n\nStandard Storage\n\nHot data\nOnly brief periods of time (단기간에 적합)\n\n\n\nNearline Storage\n\nonce per moth (자주 접근하지 않는 데이터)\ndata archiving, data backups, long-tail multimedia content"
   },
   {
     "objectID": "posts/welcome/index.html",

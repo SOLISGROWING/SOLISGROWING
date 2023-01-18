@@ -6,10 +6,8 @@
 
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
-<meta name="author" content="Yeji">
-<meta name="dcterms.date" content="2022-12-01">
 
-<title>Memo-For-typescript-settings</title>
+<title>quarto-input71b6003f</title>
 <style>
 code{white-space: pre-wrap;}
 span.smallcaps{font-variant: small-caps;}
@@ -67,39 +65,7 @@ ul.task-list li input[type="checkbox"] {
 
 <div id="quarto-search-results"></div>
 <!-- content -->
-<header id="title-block-header" class="quarto-title-block default page-columns page-full">
-  <div class="quarto-title-banner page-columns page-full">
-    <div class="quarto-title column-body">
-      <h1 class="title">Memo-For-typescript-settings</h1>
-                                <div class="quarto-categories">
-                <div class="quarto-category">typescript</div>
-                <div class="quarto-category">study</div>
-              </div>
-                  </div>
-  </div>
-    
-  
-  <div class="quarto-title-meta">
-
-      <div>
-      <div class="quarto-title-meta-heading">Author</div>
-      <div class="quarto-title-meta-contents">
-               <p>Yeji </p>
-            </div>
-    </div>
-      
-      <div>
-      <div class="quarto-title-meta-heading">Published</div>
-      <div class="quarto-title-meta-contents">
-        <p class="date">December 1, 2022</p>
-      </div>
-    </div>
-    
-      
-    </div>
-    
-  
-  </header><div id="quarto-content" class="quarto-container page-columns page-rows-contents page-layout-article">
+<div id="quarto-content" class="quarto-container page-columns page-rows-contents page-layout-article">
 <!-- sidebar -->
 <!-- margin-sidebar -->
     
@@ -108,36 +74,72 @@ ul.task-list li input[type="checkbox"] {
 
 
 
-
-<section id="section" class="level1">
-<h1>20221201</h1>
-<ul>
-<li><p>Material icon 설치</p></li>
-<li><p>Night owl 설치</p></li>
-<li><p>axios 사용법</p></li>
-<li><p>https://axios-http.com/kr/docs/intro</p></li>
-<li><p>주석의 사용법 / ** 누르고 Enter</p></li>
-</ul>
-<section id="타입스크립트의-장점이란" class="level4">
-<h4 class="anchored" data-anchor-id="타입스크립트의-장점이란">타입스크립트의 장점이란?</h4>
+<section id="case-study" class="level2">
+<h2 class="anchored" data-anchor-id="case-study">Case Study</h2>
+<section id="game-mountkirk" class="level3">
+<h3 class="anchored" data-anchor-id="game-mountkirk">GAME-MountKirk</h3>
+</section>
+<section id="reuquire" class="level3">
+<h3 class="anchored" data-anchor-id="reuquire">Reuquire</h3>
+<pre><code>- Your Own Data Center
+- 자체 linux 운영체제 사용 </code></pre>
+</section>
+<section id="vm" class="level3">
+<h3 class="anchored" data-anchor-id="vm">vm</h3>
+<pre><code>- OS 자유자재 사용
+- Auto scaling and load balancing 사용가능
+- CDN 사용가능
+- 스스로... 관리
+- scaling 정책 수립 필요</code></pre>
+</section>
+<section id="app-engine" class="level3">
+<h3 class="anchored" data-anchor-id="app-engine">App Engine</h3>
+<pre><code>- os 커스텀 불가능</code></pre>
+</section>
+<section id="container-engine" class="level3">
+<h3 class="anchored" data-anchor-id="container-engine">Container Engine</h3>
+<pre><code>- kubernetes on gcp?
+- 컨테이너화 되어있어야함
+- cluster 스스로 관리?</code></pre>
+</section>
+<section id="cloud-function" class="level3">
+<h3 class="anchored" data-anchor-id="cloud-function">Cloud Function</h3>
+<pre><code>- Event Based
+- No ops and Serverless
+- 서비리스
+- latency가 없음... </code></pre>
+</section>
+<section id="require-option" class="level3">
+<h3 class="anchored" data-anchor-id="require-option">Require option</h3>
+<pre><code>- Storage vs speed
+- custom vs predefined</code></pre>
+</section>
+<section id="jencomart" class="level3">
+<h3 class="anchored" data-anchor-id="jencomart">JencoMart</h3>
+<pre><code>- 월마트나 까르푸 같은 것 
+- 핵심은... Asia 로 서비스를 확장하는 것 </code></pre>
+</section>
+<section id="현재-아키텍쳐의-문제점" class="level3">
+<h3 class="anchored" data-anchor-id="현재-아키텍쳐의-문제점">현재 아키텍쳐의 문제점</h3>
+<pre><code>- 작은 덩어리로 나누기 어려움
+- a-b test 하기 어려움
+- dependency (종속성)이 너무 많음</code></pre>
+</section>
+<section id="gcp-connect" class="level3">
+<h3 class="anchored" data-anchor-id="gcp-connect">gcp connect</h3>
 <ol type="1">
-<li>에러에대한 사전방지</li>
-<li>코드 가이드 및 자동완성 ( 개발 생산성 향상)</li>
+<li>Cloud Interconnect</li>
+<li>Cloud Direct / Carrier Peering</li>
+<li>Cloud VPN</li>
+<li>Cloud Router</li>
 </ol>
 </section>
-<section id="npm-세팅" class="level4">
-<h4 class="anchored" data-anchor-id="npm-세팅">NPM 세팅</h4>
-<ul>
-<li>npm i typescript -g =&gt; not working</li>
-<li>tsc app.ts =&gt; not working</li>
-<li>npx tsc app.ts =&gt; working… why</li>
-</ul>
-</section>
-<section id="바벨-사이트" class="level4">
-<h4 class="anchored" data-anchor-id="바벨-사이트">바벨 사이트?</h4>
-<ul>
-<li>최대한 많은 브라우저에 호환 할 수 있게 문법을 바꾸어줌</li>
-</ul>
+<section id="case-study-외워야할것" class="level3">
+<h3 class="anchored" data-anchor-id="case-study-외워야할것">Case Study 외워야할것</h3>
+<pre><code>- 헬스케어
+- 헬리콥터
+- 마운트키크 게임
+- 테라어스</code></pre>
 
 
 </section>

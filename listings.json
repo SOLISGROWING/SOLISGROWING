@@ -2,6 +2,15 @@
   {
     "listing": "/index.html",
     "items": [
+      "/posts/gcp-20221221/20221221.html",
+      "/posts/gcp-with-20221213/20221213.html",
+      "/posts/study-with-20230117/2023-01-17.html",
+      "/posts/terraform/terraform.html",
+      "/posts/gcp-with-202212-26/20221226.html",
+      "/posts/gcp-with-20221212/20221212.html",
+      "/posts/exam-guid-for-pca/20221207.html",
+      "/posts/third-post/20221206.html",
+      "/posts/second-post/gcp-study-with-me.html",
       "/posts/post-with-code/index.html",
       "/posts/first-post/20221201.html",
       "/posts/welcome/index.html"
